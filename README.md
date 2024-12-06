@@ -1,4 +1,4 @@
-# ProfInf_Patcher
+# ProjInf_Patcher
 Tool to help patch weidu mods that don't have globally unique labels necessary for Project Infinity
 
 This is an R tool I made because many mods aren't supported by Project infinity and it's easier to add labels and fix 
